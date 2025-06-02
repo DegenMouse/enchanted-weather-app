@@ -2,7 +2,7 @@
 
 A full-stack weather application with a Rust backend (Rocket framework) and a modern React frontend. The application provides current and weekly weather forecasts with a beautiful user interface.
 
-🌐 **Live Application**: [https://enchanted-weathe-app.degenmouse.space/](https://enchanted-weathe-app.degenmouse.space/)
+🌐 **Live Application**: [https://enchanted-weather-app.degenmouse.space/](https://enchanted-weathe-app.degenmouse.space/)
 
 ## Features
 
